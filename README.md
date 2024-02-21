@@ -37,9 +37,9 @@
 
 ## 🔍  Where to find me
 ###### [![GitHub BeratKubilay](https://img.shields.io/github/followers/KubilayB?label=github&style=for-the-badge&logo=github&logoColor=white)](https://github.com/KubilayB) 
-###### [![Linkedin: Berat Kubilay Artvin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beratkubilayartvin-1bka//)]([https://www.linkedin.com/in/beratkubilayartvin-1bka/) 
-
-![Medium: Berat Kubilay Artvin](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@bkubilay9//) ![Discord: kubyb](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white&link=https://discord.com/users/kubyb)
+###### [![Linkedin: Berat Kubilay Artvin](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/beratkubilayartvin-1bka) 
+###### [![Medium: Berat Kubilay Artvin](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bkubilay9)
+###### ![Discord: kubyb](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/kubyb)
 
 ## 📊 Statistics
 #### ![visitors](https://visitor-badge.laobi.icu/badge?page_id=KubilayB)
