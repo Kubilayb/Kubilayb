@@ -4,7 +4,7 @@
 
 - 📝 I am currently training at TOBETO.
 
-- 🌱 I’m currently learning **.Net & JavaScript & Angular, **
+- 🌱 I’m currently learning **.Net & JavaScript & Angular**
 
 - 📫 How to reach me: **beratkubilay@hotmail.com** or **bkubilay9@gmail.com** 
 
