@@ -40,4 +40,9 @@
 
 ## 📊 Statistics
 #### ![visitors](https://visitor-badge.laobi.icu/badge?page_id=KubilayB)
-![stats](https://github-readme-stats.vercel.app/api?username=KubilayB&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+<h3 align="center">Github Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kubilayb&theme=gotham&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubilayb&theme=gotham&show_icons=true&hide_border=false&layout=compact" height="150" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kubilayb&theme=gotham&hide_border=false" height="150" />   
+<!- ![stats](https://github-readme-stats.vercel.app/api?username=KubilayB&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) ->
