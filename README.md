@@ -2,9 +2,7 @@
 <h3 align="center">A passionate developer from Türkiye</h3>
 <img align="right" alt="Coding" width="400" padding-top="20px" src="https://www.pngkey.com/png/full/162-1627423_mas-software-engineer-hob-vacancy-computer-engineer-cartoon.png" </img>
 
-- 📝 I am currently training at TOBETO.
-
-- 🌱 I’m currently learning **.Net & JavaScript & Angular**
+- 📝 I am an Electrical-Electronics Engineer in a private company.
 
 - 📫 How to reach me: **beratkubilay@hotmail.com** or **bkubilay9@gmail.com** 
 
